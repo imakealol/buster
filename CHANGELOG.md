@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [3.3.0](https://github.com/dessant/buster/compare/v3.2.1...v3.3.0) (2026-06-17)
+
+
+### Features
+
+* add local speech recognition service in Chrome ([eb13562](https://github.com/dessant/buster/commit/eb13562900cfd8add1776aad1346358c8761e09f)), closes [#466](https://github.com/dessant/buster/issues/466)
+
+
+### Bug Fixes
+
+* account for undefined InjectionResult ([1f4b189](https://github.com/dessant/buster/commit/1f4b189729be6ecc2926040f83bd1d432473cd5a))
+* show client app download button on macOS ([5fd20fc](https://github.com/dessant/buster/commit/5fd20fcdba46d9c4b38c52a83e50b9b17d1ad164))
+
 ## [3.2.1](https://github.com/dessant/buster/compare/v3.2.0...v3.2.1) (2026-06-15)
 
 
